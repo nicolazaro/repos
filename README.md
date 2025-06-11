@@ -65,7 +65,7 @@
 
     <header class="bg-white shadow-md sticky top-0 z-50">
         <nav class="container mx-auto px-6 py-3 flex justify-between items-center">
-            <a href="#" class="text-xl font-bold text-blue-800">Guía de Repositorios</a>
+            <a href="#" class="text-xl font-bold text-blue-800">Repositorios Digitales</a>
             <div class="hidden md:flex space-x-6">
                 <a href="#fundamentos" class="py-2 nav-link">¿Qué son?</a>
                 <a href="#tipos" class="py-2 nav-link">Tipos</a>
