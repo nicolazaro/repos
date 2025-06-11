@@ -233,7 +233,7 @@
 
     <footer class="bg-gray-800 text-white mt-16">
         <div class="container mx-auto px-6 py-4 text-center">
-            <p>Aplicación Interactiva creada con Gemini 2.5 Pro (versión preliminar) a partir del curso sobre Repositorios Digitales creado con Gemini Deep Research 2.5 Pro (versión preliminar).</p>
+            <p>Aplicación Interactiva creada con Google Gemini 2.5 Pro (versión preliminar) a partir del curso sobre Repositorios Digitales creado con Google Gemini with Deep Research 2.5 Pro (versión preliminar).</p>
             <p class="text-sm text-gray-400 mt-1">&copy; 2025 Guía de Repositorios Digitales.</p>
         </div>
     </footer>
